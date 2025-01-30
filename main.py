@@ -1,7 +1,2 @@
-import random
-
-print("Hello World")
-
-a=5 
-b=4 
-print(a + b) 
+print("Имя:", name, "Возраст", age
+      )
